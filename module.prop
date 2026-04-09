@@ -4,3 +4,4 @@ version=v1.2.6
 versionCode=14
 author=InstallerX-Revived Developers && TanakaLun
 description=将InstallerX Revived变为ColosOS系统安装器
+actionIcon=launcher.png
